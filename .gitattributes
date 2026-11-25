@@ -1,7 +1,7 @@
 *.json linguist-language=JSON linguist-detectable=true
 
 # Force .sql files to be detected as SQL language
-*.sql linguist-language=SQL
+*.sql linguist-language=SQL linguist-detectable=true
 
 # Custom language label for MongoDB shell scripts
 # Note: "MongoDB" is not an official Linguist language. 
