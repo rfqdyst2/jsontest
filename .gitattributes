@@ -11,4 +11,4 @@
 
 # Optional: If you want proper syntax highlighting while keeping 
 # the custom label, you can also add:
-# *.mongo.js linguist-detectable=true
+*.mongo.js linguist-detectable=true
